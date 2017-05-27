@@ -3,6 +3,7 @@
 int main() {
 
 	testcout();
+	otherCoutTest();
 
 	return 0;
 }

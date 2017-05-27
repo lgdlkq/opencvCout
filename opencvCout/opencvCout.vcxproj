@@ -156,6 +156,7 @@
   <ItemGroup>
     <ClCompile Include="coutTest.cpp" />
     <ClCompile Include="testMain.cpp" />
+    <ClCompile Include="testOtherCout.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all.h" />
